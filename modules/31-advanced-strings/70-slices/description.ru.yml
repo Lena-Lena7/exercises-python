@@ -23,7 +23,7 @@ theory: |
   ```python
   value = '12-08-2034'
 
-  year = value[6:10]
+  year = value[6:9]
   print(year)  # => 2034
   ```
 
